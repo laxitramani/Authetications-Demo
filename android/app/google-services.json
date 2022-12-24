@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185220043575",
+    "project_id": "authentication-demo-cca56",
+    "storage_bucket": "authentication-demo-cca56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185220043575:android:5670dd171b48fd3d42c0b2",
+        "android_client_info": {
+          "package_name": "com.laxit.authenticationsDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185220043575-mm4p2ltmeqh6lm01aaiukq2eg259c64h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlynjFXj12cKZJkD3N8ZKFSGu6zfKmt0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185220043575-mm4p2ltmeqh6lm01aaiukq2eg259c64h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
